@@ -8,7 +8,7 @@ var links = React.createElement(
     ),
     React.createElement(
         "a",
-        { href: "" },
+        { href: "resource/cv.pdf" },
         "[CV]"
     ),
     React.createElement(
@@ -35,7 +35,7 @@ var links = React.createElement(
             React.createElement(
                 "div",
                 { "class": "container alert alert-success" },
-                "Yuchuan Huang is a PhD student in the Department of Computer Science & Engineering at University of Minnesota, Twin Cities. His research interest is database management systems. Yuchuan is advised by Prof. Mohamed F. Mokbel."
+                "Yuchuan Huang is a PhD candidate in the Department of Computer Science & Engineering at University of Minnesota, Twin Cities. His research interest is database systems. Yuchuan is advised by Mohamed F. Mokbel."
             )
         )
     )
