@@ -1,6 +1,6 @@
 # yhuang-db.github.io
 
-### Init project
+### Init vite+react project
 
 git clone https://github.com/yhuang-db/yhuang-db.github.io.git
 
@@ -8,9 +8,13 @@ cd yhuang-db.github.io.git
 
 npm create vite@latest ./
 
+npm install
+
 https://vitejs.dev/guide/#getting-started
 
 npm create vite@latest frontend -- --template react
+
+##### Init bootstrap
 
 https://getbootstrap.com/docs/5.3/getting-started/vite/
 
