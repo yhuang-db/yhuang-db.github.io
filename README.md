@@ -1,3 +1,42 @@
+# yhuang-db.github.io
+
+### Init project
+
+git clone https://github.com/yhuang-db/yhuang-db.github.io.git
+
+cd yhuang-db.github.io.git
+
+npm create vite@latest ./
+
+https://vitejs.dev/guide/#getting-started
+
+npm create vite@latest frontend -- --template react
+
+https://getbootstrap.com/docs/5.3/getting-started/vite/
+
+npm i --save bootstrap @popperjs/core
+
+npm i --save-dev sass
+
+mkdir src/scss
+
+touch src/scss/styles.scss
+
+
+npm run dev  // See website in develop mode
+
+npm run build  // Build website
+
+npm run preview  // preview built website
+
+### Deploy
+
+Github repo -> Settings -> Pages -> Build and deployment -> Source: Github Actions
+
+Create action: https://vitejs.dev/guide/static-deploy.html#github-pages
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
