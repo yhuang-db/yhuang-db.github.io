@@ -15,7 +15,7 @@ export default function Links() {
                 <a class="dropdown" data-bs-toggle="dropdown" href="#collapseProject">[Projects]</a>
 
                 <ul class="dropdown-menu" id="collapseProject">
-                    <li><a class="dropdown-item" href="https://demos.dmlab.cs.umn.edu/">iHarp</a></li>
+                    <li><a class="dropdown-item" href="https://iharpv.cs.umn.edu/">iHarp</a></li>
                     <li><a class="dropdown-item" href="https://github.com/yhuang-db/holoclean-sparcle/tree/latest-aimnet-310-sparcle">Sparcle</a></li>
                     <li><hr class="dropdown-divider" /></li>
                     <li><a class="dropdown-item" href="http://just.urban-computing.com/">JUST</a></li>

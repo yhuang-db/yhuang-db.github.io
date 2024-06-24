@@ -13,6 +13,10 @@ export default function Bio() {
                 <p>
                     My researches at UMN usually use spatial data as showcases.
                 </p>
+
+                <p>
+                    Current project: interactive accessing and querying large-scale raster data (under <a href="https://iharp.umbc.edu/">iHARP</a> project). <a href="https://iharpv.cs.umn.edu/">[demo]</a>
+                </p>
             </div>
         </>
     )

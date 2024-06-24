@@ -26,6 +26,13 @@ mkdir src/scss
 
 touch src/scss/styles.scss
 
+import Bootstrap’s CSS. Add the following to `src/scss/styles.scss`
+
+changes happens in `index.html` and `src/`
+
+`assets` under `public/`
+
+##### dev, build and preview
 
 npm run dev  // See website in develop mode
 

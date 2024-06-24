@@ -79,7 +79,7 @@ export default function Publication() {
         "pdfLink": "assets/papers/vldb2024_sparcle.pdf",
         "thumbnail": "assets/papers/thumbnails/vldb2024_sparcle.png",
         "thumbnailsAlt": "vldb2024",
-        "titleLink": "assets/papers/vldb2024_sparcle.pdf",
+        "titleLink": "https://www.vldb.org/pvldb/volumes/17/paper/Sparcle%3A%20Boosting%20the%20Accuracy%20of%20Data%20Cleaning%20Systems%20through%20Spatial%20Awareness",
         "title": "Sparcle: Boosting the Accuracy of Data Cleaning Systems through Spatial Awareness",
         "authorsBefore": "",
         "authorsAfter": ", Mohamed F. Mokbel",
