@@ -20,7 +20,7 @@ export default function Footer() {
                                 <i>Last updated: {document.lastModified}</i>
                             </div>
                         </div>
-                        <div class="col-sm-3">
+                        <div class="col-sm-2">
                             <img class="d-none d-sm-block img-fluid" src="assets/images/MHwdmk_D2Dgold.png" alt="footer-icon"></img>
                             <img class="d-block d-sm-none img-fluid w-50 mx-auto py-2" src="assets/images/MHwdmk_D2Dgold.png" alt="footer-icon"></img>
                         </div>
