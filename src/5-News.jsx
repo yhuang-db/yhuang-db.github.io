@@ -16,8 +16,10 @@ function ListNews(newslist) {
 export default function News() {
     const justNews = <span>My work at JD.com <a href="#JUST">JUST: JD Urban Spatio-Temporal Data Engine</a> has been accepted to <a href="https://www.utdallas.edu/icde/">ICDE 2020</a>.</span>
     const sparcleNews = <span>My work <a href="#Sparcle">Sparcle: Boosting the Accuracy of Data Cleaning Systems through Spatial Awareness</a> has been accepted to <a href="https://vldb.org/2024/">VLDB 2024</a>.</span>
+    const databricksIntern = <span>Will start internship at Databricks from May 2025. <img src="assets/I'mJoining Databricks.gif" alt="Celebration gif" style={{ height: '50px' }} /></span>
 
     const allNews = [
+        { time: "11/2024", content: databricksIntern },
         { time: "04/2024", content: sparcleNews },
         { time: "12/2019", content: justNews },
     ]
