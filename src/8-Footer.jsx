@@ -6,24 +6,24 @@ export default function Footer() {
                     <div>
                         <h5 >Contact</h5>
                         Email: huan1531 [at] umn [dot] edu<br />
-                        <br />
+                        {/* <br />
                         Kenneth H. Keller Hall<br />
                         200 Union Street SE<br />
-                        Minneapolis, MN 55455
+                        Minneapolis, MN 55455 */}
                     </div>
                     <hr />
                     <div class="row">
                         <div class="col">
                             <div>
-                                &copy; 2024 Yuchuan Huang. Designed with Bootstrap and React. All rights reserved.
+                                &copy; 2026 Yuchuan Huang. Designed with Bootstrap and React. All rights reserved.
                                 <br />
                                 <i>Last updated: {document.lastModified}</i>
                             </div>
                         </div>
-                        <div class="col-sm-2">
+                        {/* <div class="col-sm-2">
                             <img class="d-none d-sm-block img-fluid" src="assets/images/MHwdmk_D2Dgold.png" alt="footer-icon"></img>
                             <img class="d-block d-sm-none img-fluid w-50 mx-auto py-2" src="assets/images/MHwdmk_D2Dgold.png" alt="footer-icon"></img>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>

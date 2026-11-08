@@ -21,7 +21,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <Header /> {/* Done */}
       <Bio />    {/* Done */}
       <Links />  {/* Done */}
-      <More />   {/* Done */}
+      {/* <More />   Done */}
       <Footer /> {/* Done */}
     </div>
   </React.StrictMode>,

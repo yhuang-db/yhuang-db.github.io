@@ -3,6 +3,9 @@ export default function Bio() {
         <>
             <div class="container">
                 <p>
+                    I work as a software engineer at Databricks, on Spark. I graduated as PhD from the University of Minnesota in 2026. 
+                </p>
+                {/* <p>
                     I’m a PhD candidate in the <a href="https://cse.umn.edu/cs">Department of Computer Science & Engineering</a> at <a href="https://twin-cities.umn.edu/">University of Minnesota, Twin Cities</a>, advised by <a href="https://www-users.cs.umn.edu/~mokbel/">Prof. Mohamed F. Mokbel</a>.
                 </p>
                 <p>
@@ -16,7 +19,7 @@ export default function Bio() {
 
                 <p>
                     Current project: accessing and interactively querying large-scale raster data (under <a href="https://iharp.umbc.edu/">iHARP</a> project). <a href="https://iharpv.cs.umn.edu/">[demo]</a>
-                </p>
+                </p> */}
             </div>
         </>
     )
