@@ -3,7 +3,7 @@ export default function Bio() {
         <>
             <div class="container">
                 <p>
-                    I work as a software engineer at Databricks, on Spark. I graduated as PhD from the University of Minnesota in 2026. 
+                    I work as a software engineer at Databricks, on Spark. I graduated (PhD) from the University of Minnesota in 2026. 
                 </p>
                 {/* <p>
                     I’m a PhD candidate in the <a href="https://cse.umn.edu/cs">Department of Computer Science & Engineering</a> at <a href="https://twin-cities.umn.edu/">University of Minnesota, Twin Cities</a>, advised by <a href="https://www-users.cs.umn.edu/~mokbel/">Prof. Mohamed F. Mokbel</a>.
