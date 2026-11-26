@@ -7,7 +7,7 @@ export default function Header() {
                         <h2>I'm Yuchuan Huang.</h2>
                     </div>
                     <div class="col-2">
-                        <img class="d-none d-sm-block my-profile" src="assets/images/1440x1440.png" alt="profile"></img>
+                        {/* <img class="d-none d-sm-block my-profile" src="assets/images/1440x1440.png" alt="profile"></img> */}
                     </div>
                 </div>
             </div>
